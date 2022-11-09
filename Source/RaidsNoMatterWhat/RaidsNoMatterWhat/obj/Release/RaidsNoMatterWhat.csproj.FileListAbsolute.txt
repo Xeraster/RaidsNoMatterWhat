@@ -1,0 +1,4 @@
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/Raids No Matter What/Assemblies/RaidsNoMatterWhat.dll
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/Raids No Matter What/Source/RaidsNoMatterWhat/RaidsNoMatterWhat/obj/Release/RaidsNoMatterWhat.csproj.CoreCompileInputs.cache
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/Raids No Matter What/Source/RaidsNoMatterWhat/RaidsNoMatterWhat/obj/Release/RaidsNoMatterWhat.dll
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/Raids No Matter What/Source/RaidsNoMatterWhat/RaidsNoMatterWhat/obj/Release/RaidsNoMatterWhat.csprojAssemblyReference.cache
